@@ -1,2 +1,2 @@
 # RepoAlkemy
-Ejercitación: Git &amp; GitHub
+Ejercitación: Git &amp; GitHub / Modificación en la rama 'main'
